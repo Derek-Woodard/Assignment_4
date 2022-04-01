@@ -1,7 +1,7 @@
 %%
 % Derek Woodard, 100827083
 
-%% Part 2
+%% A3 used to determine R3 in A4
 
 clear all
 close all
